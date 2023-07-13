@@ -1,0 +1,6 @@
+#ifndef HELP_FUNCTIONS_H_INCLUDED
+#define HELP_FUNCTIONS_H_INCLUDED
+
+
+
+#endif //

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1689102250 source:c:\users\user\desktop\host_mcu_app\main.c
+	"main.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1689102611 c:\users\user\desktop\host_mcu_app\main.h
+	<Windows.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"Configure_port.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+
+1689102611 c:\users\user\desktop\host_mcu_app\configure_port.h
+
+1688757459 c:\users\user\desktop\host_mcu_app\set_of_instructions.c
+	"main.h"
+	"functions.c"
+	"Configure_Port.c"
+
+1688758163 c:\users\user\desktop\host_mcu_app\functions.c
+	"main.h"
+	"Set_of_instructions.c"
+
+1688758767 c:\users\user\desktop\host_mcu_app\configure_port.c
+	"main.h"
+	"file_manipulation.c"
+
+1688756847 c:\users\user\desktop\host_mcu_app\file_manipulation.c
+	"main.h"
+
+1689101441 source:c:\users\user\desktop\host_mcu_app\file_manipulation.c
+	"main.h"
+
+1689102200 source:c:\users\user\desktop\host_mcu_app\respond_from_bl.c
+	"main.h"
+
+1689099582 source:c:\users\user\desktop\host_mcu_app\configure_port.c
+	"main.h"
+
+1689100682 source:c:\users\user\desktop\host_mcu_app\functions.c
+	"main.h"
+
+1689104411 source:c:\users\user\desktop\host_mcu_app\set_of_instructions.c
+	"main.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
